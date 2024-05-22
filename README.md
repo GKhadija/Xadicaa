@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Xadicaa
+- 🌱 I’m currently learning AI and QA Testing
