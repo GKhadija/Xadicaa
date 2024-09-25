@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @Xadicaa
-- 🌱 I’m currently learning AI and QA Testing
+- 🌱 I’m currently learning AI and QA Testing and working for PM internship
+- 
